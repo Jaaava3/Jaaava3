@@ -15,11 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaaava3&show_icons=true&theme=dracula" alt="Estadísticas de GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaaava3&layout=compact&theme=dracula" alt="Lenguajes más usados" height="165" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=Jaaava3&theme=dracula" alt="Racha de Commits" height="165" />
-</div>
